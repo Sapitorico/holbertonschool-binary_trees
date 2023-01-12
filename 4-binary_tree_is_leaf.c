@@ -2,7 +2,7 @@
 
 /**
  * binary_tree_is_leaf - function that checks if the node is a sheet
- * 
+ *
  * @node: Node
  * Return: 1 if it is a sheet but 0
  */
